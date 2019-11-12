@@ -1,0 +1,6 @@
+13004673 100_Plus_Lime 1.80 10
+40123543 100_Plus_Ori 1.80 12
+30014378 Coca-Cola_Ori 2.00 7
+12382463 Coca-Cola_Zero 2.00 8
+90072131 Drinho_Apple 1.20 1
+10002134 LimeYogurt 2 3

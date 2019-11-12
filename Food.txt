@@ -1,0 +1,6 @@
+41564538 Magnum_Almond 4.80 9
+41579521 Magnum_Caramel 4.80 10
+41587021 Magnum_Classic 4.80 7
+41578631 Magnum_Gold 4.80 1
+41587920 Magnum_White 4.80 4
+10001111 MagnumBlack 2 3
